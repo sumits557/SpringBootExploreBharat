@@ -1,5 +1,5 @@
 # SpringBootExploreBharat
-Creating a basic spring boot application to explore India (Bharat).
+Creating a basic spring boot application to explore India (Started from North India).
 
 * Setting up the project
 * Building, deploying, and launching the microservice
