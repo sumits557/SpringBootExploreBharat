@@ -1,0 +1,50 @@
+[
+  {
+    "packageType": "Backpack Bharat",
+    "title": "Dharamsala - mini Tibet in India",
+    "blurb": "Dharamsala is a popular tourist destination in Himachal Pradesh, Bharat.",
+    "description": "It is a popular tourist place as it has something for everyone. Nature has bestowed its kindness in all its grandeure. It has snow capped mountains, flowing river places full of natural beauty, rock climbing and, best of all, hiking that the larger park has to offer.\n His Holiness Dalai Lama is staying in Dharamsala along with thousands of his supporters, Also considered as smart city",
+    "bullets": "McLeod Ganj is a suburb of Dharamshala in Kangra district of Himachal Pradesh, India. It is known as \"Little Lhasa\" or \"Dhasa\" because of its large population of Tibetans, residence of the 14th Dalai Lama(Temple), Dharamshala International Cricket stadium, Dharamshala pleasant weather and it's scenic views, Privately guided hikes through any of the 5 surrounding national parks, Picnic delicious lunches prepared by the local restaurants/dhaba's, Complimentary breakfast provided by the hotels",
+    "difficulty": "Medium",
+    "length": "3 days",
+    "price": "750",
+    "region": "Himalayan",
+    "keywords": "Cricket stadium, Dalai lama Temple, Hiking, Tibetan market"
+  },
+  {
+    "packageType": "Backpack Bharat",
+    "title": "Shimla: Capital of Himachal Pradesh",
+    "blurb": "Shimla was declared as the summer capital of British India, succeeding Murree, northeast of Rawalpindi. After independence, the city became the capital of Punjab and was later made the capital of Himachal Pradesh. It is the principal commercial, cultural and educational centre of the state",
+    "description": "The state of Himachal Pradesh came into being in 1948 as a result of integration of 28 princely states. Even after independence, the city remained an important political centre, hosting the Simla Agreement of 1972. After reorganisation of state of Himachal Pradesh, the existing Mahasu district was named Shimla.",
+    "bullets": "The Viceregal Lodge, the Christ Church, the Jakhoo Temple, the Mall Road, the Ridge and Annadale which together form the city centre. The Kalka–Shimla Railway line built by the British, a UNESCO World Heritage Site, is also a major tourist attraction, Snowfall in the region.",
+    "difficulty": "Difficult",
+    "length": "3 days",
+    "price": "600",
+    "region": "Northern",
+    "keywords": "Jakhoo Temple, Mall Road, the Christ Church, Kalka–Shimla Railway line"
+  },
+  {
+    "packageType": "Backpack Bharat",
+    "title": "Dehradun: Capital of Uttarakhand",
+    "blurb": "The administrative headquarters of Dehradun district, Part of the Garhwal region.",
+    "description": "Dehradun is located in the Doon Valley on the foothills of the Himalayas nestled between the river Ganges on the east and the river Yamuna on the west. The city is noted for its picturesque landscape and slightly milder climate and provides a gateway to the surrounding region. It is well connected and in proximity to Himalayan tourist destinations such as Mussoorie, and Auli and the Hindu holy cities of Haridwar and Rishikesh along with the Himalayan pilgrimage circuit of Chota Char Dham. Dehradun is also known for its Basmati rice and bakery products. Established as a smart city.",
+    "bullets": "Dehradun houses various defense academies and research institutes, such as Indian Military Academy, Rashtriya Indian Military College, Forest Research Institute, and Wadia Institute of Himalayan Geology.",
+    "difficulty": "Difficult",
+    "length": "2 days",
+    "price": "250",
+    "region": "Varies",
+    "keywords": "Mussoorie, Auli, Haridwar, Rishikesh, along with the Himalayan pilgrimage circuit of Chota Char Dham."
+  },
+  {
+    "packageType": "Backpack Bharat",
+    "title": "Nanital: Himalayan resort town in the Kumaon region of India’s Uttarakhand state",
+    "blurb": "Formerly a British hill station, it’s set around Nainital Lake, a popular boating site with Naina Devi Hindu Temple on its north shore. A cable car runs to Snow View observation point (at 2,270m), with vistas over the town and mountains including Nanda Devi, Uttarakhand’s highest peak.",
+    "description": "Naina Peak, at 2,600m, is within hiking distance. back in town, Bara Bazaar is a popular shopping destination. South of downtown Nainital is Raj Bhawan, a Victorian-era governmental manor offering tours of its grounds, plus a public golf course. Elsewhere in the region, forested Jim Corbett National Park is a reserve for endangered Bengal tigers and other native wildlife. Naukuchiatal (9-Cornered Lake) and Sattal (7 Lakes) are rustic locales for boating and fishing.",
+    "bullets": "Naini Lake – Enjoy Boating, Tiffin Top – View The Sunrise, Tibetan Market – Shop For Local Souvenirs, Hanuman Garhi – A Beautiful Temple, Nainital Ropeway – For The Bird’s Eye View, Naina Devi – A Temple By The Lake.",
+    "difficulty": "Difficult",
+    "length": "3 days",
+    "price": "650",
+    "region": "Northern",
+    "keywords": "Naini Lake, Tiffin Top, Tibetan Market, Hanuman Garhi"
+  }
+]

@@ -1,4 +1,4 @@
-package com.example.eb.explorebharat;
+/*package com.example.eb.explorebharat;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -10,4 +10,4 @@ class ExplorebharatApplicationTests {
 	void contextLoads() {
 	}
 
-}
+}*/
