@@ -3,11 +3,11 @@ package com.example.eb.explorebharat.domain;
 /**
  * Enumeration of the region of India.
  *
- * Created by Mary Sumit S
+ * Created by Sumit S
  */
 public enum Region {
     Himachal_Dharamshala("Himachal Dharamshala"),
-    Himachal_Shimla("Himachal_Shimla"), Uttrakhand_Dehradun("Uttakhand Dehradun"),
+    Himachal_Shimla("Himachal Shimla"), Uttrakhand_Dehradun("Uttakhand Dehradun"),
     Uttrakhand_Landsdown("Uttrakhand Landsdown");
     private String label;
     private Region(String label) {

@@ -6,7 +6,7 @@ import java.util.Objects;
 /**
  * The Tour contains all attributes of an Explore Bharat Tour.
  *
- * Created by Mary Sumit S
+ * Created by Sumit S
  */
 @Entity
 public class Tour {
