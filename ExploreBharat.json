@@ -46,5 +46,77 @@
     "price": "650",
     "region": "Northern",
     "keywords": "Naini Lake, Tiffin Top, Tibetan Market, Hanuman Garhi"
+  },
+  {
+    "packageType": "Bharat Calm",
+    "title": "Restoration Package",
+    "blurb": "The Restoration Package is a 2 day balm for the tired soul. Choose from among three destinations that uniquely combine world-class spa services and attention to the spirit, in locations of unparalleled natural beauty.",
+    "description": "Choose from among 3 options designed to help you relax and restore in the Restoration Package. Reconnect with nature and with yourself at the Naina Peak, at 2,600m, is within hiking distance.",
+    "bullets": "Naini Lake – Enjoy Spa, Tiffin Top – View The Sunrise, Hanuman Garhi – A Beautiful Temple, Naina Devi – A Temple By The Lake, Choice of 3 different spa resorts, 1 full day of pampering, Luxury hotel accommodations.",
+    "difficulty": "Easy",
+    "length": "2 days",
+    "price": "650",
+    "region": "Varries",
+    "keywords": "Spa, Relaxation, Art, Yoga"
+  },
+  {
+    "packageType": "Cycle Bharat",
+    "title": "Valley of Dharamshala Special",
+    "blurb": "This year only, we’re also offering a special package that allows serious cyclists to follow behind a competitor in the Dharamshala bike race, a race that mimics the conditions in the Tour de France. Spots are limited so reserve your seat now!",
+    "description": "The Valley Tour of Dharamshala is the largest cycling event in the Bharat, over 50 Km and includes cycling world champions, professional competitors. It's an 8-leg tour, designed to mimic the various conditions in the Dharamshala weather, and Explore Dharamshala has the unique pleasure of being able to offer 50 of our members spots, or main group of racers, on two legs of the two. This is a special, one-time only offer. Customers should be in physical and mental shape to complete this two-week ride. Be prepared to complete a detailed questionnaire about skill level and any existing health problems.",
+    "bullets": "Follow the main group of rider's for two legs of Macleod valley of Dharamshala, Ride alongside professional athletes competitors and professional cyclists, Enjoy car-free Dharamshala roadways, Pace led by experienced and well trained professional cyclists, Lodging and meals included",
+    "difficulty": "Difficult",
+    "length": "7 days",
+    "price": "1500",
+    "region": "Northern Bharat",
+    "keywords": "Cycling, Sports,"
+  },
+  {
+    "packageType": "Kids Bharat",
+    "title": "Kids Dehradun Tour",
+    "blurb": "Dehradun for the young (and young at heart!) Go beyond the concrete jungle and discover just what a playground Abhimanyu sports complex can be.",
+    "description": "Kids Dehradun Tour is a 3-day jam-packed, fun-filled tour of the best the city has to offer- for any age. The first day includes admission to the Dehradun Zoo, home to over 700 animals, and its companion park, the Long Beach Aquarium. After the little ones are tuckered out, take them back to the Hotel in Dehradun so they can rest up for the next two days at the world famous Dehradun Resort. Park Hopper tickets allow you to go between Dehradun and the Dehradun Adventure Park, and with Express Passes, you never have to wait in line. Dehradun Hotel guests get exclusive use of the monorail that surrounds the park, and perfect views of the nightly fireworks shows from the hotel. Enjoy meals from any of the Disneyland cafes or leave the kids for an evening and enjoy a meal at one of Downtown Dehradun's more upscale restaurants. This is a family vacation- Dehradun style.",
+    "bullets": "Admission to the Dehradun Zoo and Long Aquarium, 2 nights at the Dehradun Hotel, 3 day luxury car rental, Park Hopper tickets for Dehradun and Bharat Adventure, Free parking",
+    "difficulty": "Easy",
+    "length": "3 days",
+    "price": "200",
+    "region": "Southern Dehradun",
+    "keywords": "Kid friendly, Museum,  Animals, Theme park"
+  },
+  {
+    "packageType": "Nature Watch",
+    "title": "Endangered Species Expedition",
+    "blurb": "Shimla boasts the largest number of unique species in the continental India(Bharat), which makes a “natural” destination for nature lovers. For those who want to get a glimpse of Shimla’s at-risk flora and fauna, and our efforts to preserve it, take the Endangered Species Expedition.",
+    "description": "Taking a cue from the Nature Conservancy, we’ve selected 5 valley's and preserves that are shining examples of conservation in action. Just one example is the Jhakhu Valley, 18 Km of Earth's most biodiversity coastal ecosystem. Activities include camping, hiking, horseback riding and bird watching. The tour package includes 2 nights of camping and 3 days admission to the park of your choice. We can also arrange for RV rentals. This is a great package for families who want to pass down a great experience and an education to the next generation, while participating in preserving a part of their future.",
+    "bullets": "Visit any one of 15 of Shimla's best state valley's, Camping, Hiking, Horseback riding, Bird watching, RV rentals available",
+    "difficulty": "Medium",
+    "length": "3 days",
+    "price": "600",
+    "region": "Varies",
+    "keywords": "Eco Tour, Camping, Animals, Hiking"
+  },
+  {
+    "packageType": "Snowboard Bharat",
+    "title": "Shimla Mountain Adventure",
+    "blurb": "With over 400 inches of annual snowfall, Mammoth Mountain turns winter into a 3 season event! Learn to ski, snowboard or even snowshoe across the thousands of acres of this winter wonderland.",
+    "description": "The Mammoth Mountain Adventure is 4 days of wild, winter fun. Take a lesson the first day from the Ski & Snowboard School, led by grizzly pro instructors. This tour includes a 4 full day lift pass, so when you're ready, you can take on any one of the 70 trails over Shimla epic terrain. Equipment rentals are included, so you can pack light. Need a break? Take a scenic Jhakhu temple valley to the summit of Mountain, 11,000 feet in all, or take a Snowcat tour of the Shimla valley. Enjoy dinners at the Mall road Inn, a snowball's throw from the main lodge, where you'll also be provided 3 night's complimentary lodging. This package is available October through early June, but lift tickets are rare, so book now.",
+    "bullets": "4 day lift ticket, 2 hour lesson at the Shimla Ski & Snowboard School, Horse rides to the summit, Snowcat tours, Private suite at the Mall Road Inn",
+    "difficulty": "Difficult",
+    "length": "4 days",
+    "price": "800",
+    "region": "Southern Shimla",
+    "keywords": "Skiing, Snowboarding, Cabin, Hiking, Mountains"
+  },
+  {
+    "packageType": "Taste of Bharat",
+    "title": "Spices of Dharamshala",
+    "blurb": "Take a quiet day to explore the lush hills and countryside around beautiful Ojai, Dharamshala. You'll visit Tea garden and tour the grounds, walk through the vegetables farms, and enjoy a once-in-a-lifetime lunch amongst the Dharamshala valley hills, featuring homemade Chai/pakoras made from the professionals!",
+    "description": "Tea garden is a small, family-run Buffet, which has been pressing their own special, Tea garden for over 70 years. Immerse yourself in this ancient practice, which is both an art and an edible. The Tea garden tour offers begins outside with the history of the grove, an explanation of the olive varieties, their maturing process, the harvesting, a visit to the tree nursery, and more. They then take you inside the barn and explain the process of making the tea. Lastly, stop in the tasting room and find out how different curing and separation processes can result in such unique flavors:Hints of pepper, grass. Take a break with a picnic lunch provided by Azu restaurant, makers of authentic Spanish style tapas with a Dharamshala flair. Included are brioche with tea, featuring black and green tea from farms and prepared by the chef especially for this tour.",
+    "bullets": "Tour of the Tea garden at Yole, Lessons on tea garden history and the maturing and harvesting process, Tour of the pressing rooms, Spices tasting from 5 unique varieties produced onsite, Picnic lunch with homemade currys",
+    "difficulty": "Easy",
+    "length": "1 day",
+    "price": "75",
+    "region": "Southern Dharmashala",
+    "keywords": "Tasting, Tea, Dharamshala History, Picnic, Nature, Farming"
   }
 ]

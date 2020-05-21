@@ -45,9 +45,7 @@ public class ExplorebharatApplication implements CommandLineRunner {
 	private void createTourAllPackages(){
         tourPackageService.createTourPackage("BB", "Backpack Bharat");
         tourPackageService.createTourPackage("BC", "Bharat Calm");
-        tourPackageService.createTourPackage("BH", "Bharat Hot springs");
         tourPackageService.createTourPackage("CB", "Cycle Bharat");
-        tourPackageService.createTourPackage("DS", "From Desert to Sea");
         tourPackageService.createTourPackage("KB", "Kids Bharat");
         tourPackageService.createTourPackage("NW", "Nature Watch");
         tourPackageService.createTourPackage("SB", "Snowboard Bharat");
